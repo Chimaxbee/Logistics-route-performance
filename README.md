@@ -34,6 +34,7 @@ The program performs the following tasks:
 ##  Technologies Used
 
 - Python 3
+- Jupyter Notebook
 
 ---
 
@@ -60,6 +61,15 @@ Logistics-Route-Performance/
 └── screenshots/
 ```
 
+## Screenshots
+
+### Python Code
+
+![Python Code](images/Code.png)
+
+### Program Output
+
+![Program Output](images/Output.png)
 ---
 
 ##  How to Run

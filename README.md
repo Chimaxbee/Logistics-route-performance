@@ -72,16 +72,14 @@ Logistics-Route-Performance/
 ![Program Output](images/Output.png)
 ---
 
-##  How to Run
+## How to Run
 
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project in VS Code or any Python IDE.
-4. Run:
-
-```bash
-python logistics_route.py
-```
+1. Install Python 3 and Jupyter Notebook (or Anaconda).
+2. Clone or download this repository.
+3. Open the `project` folder.
+4. Launch Jupyter Notebook.
+5. Open `Logistics Route Optimizer Casestudy.ipynb`.
+6. Run all cells to view the results.
 
 ---
 

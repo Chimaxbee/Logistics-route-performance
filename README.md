@@ -1,6 +1,6 @@
 # Logistics Route Performance Analysis (Python Case Study)
 
-## 📖 Project Overview
+##  Project Overview
 
 This project analyzes the performance of delivery routes for a logistics company using basic Python programming concepts.
 
@@ -18,7 +18,7 @@ This project was completed using only the concepts covered in Lessons 1–5.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The program performs the following tasks:
 
@@ -31,13 +31,13 @@ The program performs the following tasks:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 
 ---
 
-## 📚 Python Concepts Used
+##  Python Concepts Used
 
 - Variables
 - Data Types
@@ -50,7 +50,7 @@ The program performs the following tasks:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Logistics-Route-Performance/
@@ -62,7 +62,7 @@ Logistics-Route-Performance/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -75,7 +75,7 @@ python logistics_route.py
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 ```
 =========================================================
@@ -96,7 +96,7 @@ Operational Review Required: True
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 This project helped me practice:
 
@@ -108,12 +108,8 @@ This project helped me practice:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Your Name
+Chimamaka Victor Daniel  Data Analyst | Junior Python Developer
 
 ---
-
-## 📜 License
-
-This project is for educational purposes.

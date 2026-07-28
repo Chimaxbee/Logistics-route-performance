@@ -83,26 +83,6 @@ Logistics-Route-Performance/
 
 ---
 
-##  Sample Output
-
-```
-=========================================================
-      LOGISTICS ROUTE PERFORMANCE REPORT
-=========================================================
-
-Vehicle: Truck A12
-Delivery Route: Lagos → Ibadan
-Planned Distance: 135 km
-Updated Distance Covered: 140 km
-Fuel Efficiency: 4.92 km/litre
-
-Route Efficient: True
-Operational Review Required: True
-
-=========================================================
-```
-
----
 
 ##  Learning Outcomes
 

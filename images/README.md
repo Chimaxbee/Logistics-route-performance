@@ -3,8 +3,8 @@ Image folder for project screenshots.
 
 ### Python Code
 
-![Python Code](images/code)
+![Python Code](images/code.png)
 
 ### Program Output
 
-![Program Output](images/output)
+![Program Output](images/output.png)

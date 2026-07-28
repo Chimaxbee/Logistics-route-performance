@@ -65,7 +65,7 @@ Logistics-Route-Performance/
 
 ### Python Code Parameters
 
-![Python Code](images/codeparamters.png)
+![Python Code](images/Parameter_header.png)
 
 ### Python Code
 
